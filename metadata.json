@@ -1,0 +1,6 @@
+{
+  "name": "CACISO - Centro Acadêmico de Ciências Sociais UFBA",
+  "description": "Portal oficial e painel administrativo do CACISO (Centro Acadêmico de Ciências Sociais da UFBA - São Lázaro). Comunicação combativa, pautas, eventos e assembleias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
